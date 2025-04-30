@@ -12,6 +12,9 @@
 
 This repository maintains a regularly updated list of IP addresses identified as suspicious, malicious, or abusive. The list is curated from publicly available threat intelligence sources, honeypot logs, abuse reports, and community contributions. It is designed to help system administrators, developers, and network operators enhance their security posture by proactively blocking known malicious actors.
 
+## Files
+blocklist_general.txt - This is a general list of IPs that I have had to block for some reason over the past 2 years.
+
 ## Key Features
 
 - Curated from multiple trusted sources
